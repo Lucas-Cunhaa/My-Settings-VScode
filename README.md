@@ -1,13 +1,13 @@
 ## Requirements
 - You need to isntall this extension for Vscode
 
+ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 ```bash Name: Apc Customize UI++
 Id: drcika.apc-extension
 Description: Advanced VSCode user interface customizations. Very experimental.
 Version: 0.3.6
 Publisher: drcika
 ```
- VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 
 - You need to install the JetBrains Mono font in order to apply it correctly in VS Code
 link for install: https://www.jetbrains.com/pt-br/lp/mono/
@@ -17,12 +17,12 @@ link for install: https://www.jetbrains.com/pt-br/lp/mono/
 ## 🛠️ VS Code Configuration Guide
 - Open Visual Studio Code.
 
-1.Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
+1. Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
 
-2.Search for and select:
-“Preferences: Open Settings (JSON)”
+2. Search for and select:
+```bash Preferences: Open Settings (JSON)```
 
-3.Paste the configuration file "vscodesettings.json" configuration into the file
+3. Paste the configuration file "vscodesettings.json" configuration into the file
 
 ---
 
