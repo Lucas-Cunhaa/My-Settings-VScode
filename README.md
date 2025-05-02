@@ -1,4 +1,7 @@
 ## Requirements
+- You need to install the JetBrains Mono font in order to apply it correctly in VS Code
+link for install: https://www.jetbrains.com/pt-br/lp/mono/
+
 - You need to isntall this extension for Vscode
 
  VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
@@ -8,10 +11,6 @@ Description: Advanced VSCode user interface customizations. Very experimental.
 Version: 0.3.6
 Publisher: drcika
 ```
-
-- You need to install the JetBrains Mono font in order to apply it correctly in VS Code
-link for install: https://www.jetbrains.com/pt-br/lp/mono/
-
 ---
 
 ## 🛠️ VS Code Configuration Guide
